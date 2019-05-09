@@ -160,7 +160,7 @@ namespace Palindrome_Finder
             Assert(p.isPalindrome("motor"));
 #endif
         }
-    }   // class Palndromic_Tests
+    }   // class Palindromic_Tests
 
     class Program
     {
